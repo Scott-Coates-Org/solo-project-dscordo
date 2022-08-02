@@ -67,7 +67,7 @@ Go to the [milestones tab](../../milestone/1) to track your progress.
 
 ### Public URL
 
-[Replace me with the link to your app's URL](https://www.google.com/)
+[app URL](https://solo-project-dscordo.web.app)
 
 ### Description
 
@@ -75,8 +75,4 @@ Go to the [milestones tab](../../milestone/1) to track your progress.
 
 ### Mockups
 
-*View `README.md` to see how to replace me with mockups.*
-
-| ![Benjamin Bannekat](/mockups/github-cat.png) | ![Benjamin Bannekat](/mockups/github-cat.png) |
-| -------------------------------------------------------------------- | -------------------------------------------------------------------- |
-| ![Benjamin Bannekat](/mockups/github-cat.png) | ![Benjamin Bannekat](/mockups/github-cat.png) |
+![User Flow](/public/images/UserFlow.jpg)
