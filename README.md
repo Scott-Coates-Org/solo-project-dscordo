@@ -76,3 +76,4 @@ Go to the [milestones tab](../../milestone/1) to track your progress.
 ### Mockups
 
 ![User Flow](/public/images/UserFlow.jpg)
+![Hand drawn mock up - browse profiles](/public/images/handdrawnmockup.jpg)
